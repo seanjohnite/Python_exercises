@@ -1,6 +1,9 @@
 """
 Script that uses the turtle module to animate the solution to the
 Hanoi tower problem with any number of discs.
+
+Exercises 6 and 12 from How to Think Like a Computer Scientist: 
+http://interactivepython.org/runestone/static/Python-F2/Recursion/ProgrammingExercises.html
 """
 
 __author__ = 'sean'
