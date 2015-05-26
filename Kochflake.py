@@ -1,6 +1,8 @@
 """
 Script that draws a Koch snowflake with recursion.
 
+Exercise 8 from How to Think Like a Computer Scientist: 
+http://interactivepython.org/runestone/static/Python-F2/Recursion/ProgrammingExercises.html
 """
 
 
